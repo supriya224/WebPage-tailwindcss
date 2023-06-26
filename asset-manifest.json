@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/WebPage-tailwindcss/static/css/main.c52c24b7.css",
+    "main.js": "/WebPage-tailwindcss/static/js/main.0d862326.js",
+    "static/media/3d-business-partnership-illustration-png.webp": "/WebPage-tailwindcss/static/media/3d-business-partnership-illustration-png.b416d1021677fbbf95ec.webp",
+    "static/media/image.webp": "/WebPage-tailwindcss/static/media/image.1f310e80b31cb14a5b5b.webp",
+    "static/media/image3.webp": "/WebPage-tailwindcss/static/media/image3.8476028b886ec2c59209.webp",
+    "index.html": "/WebPage-tailwindcss/index.html",
+    "main.c52c24b7.css.map": "/WebPage-tailwindcss/static/css/main.c52c24b7.css.map",
+    "main.0d862326.js.map": "/WebPage-tailwindcss/static/js/main.0d862326.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c52c24b7.css",
+    "static/js/main.0d862326.js"
+  ]
+}
